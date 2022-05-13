@@ -1,2 +1,1 @@
-# HelloWorld
-Test project
+# HaskellTester
